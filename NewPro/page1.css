@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 1030px;
+    width: 1920px;
+}
+
+.cont1 h1{
+    font-size: 30px;
+    width: 251px;
+    height: 30px;
+    font-family: "Cormorant SC", sans-serif;
+    font-weight: 600;
+    margin-bottom: 39px;
+}
+
+.cont1 h2{
+    font-size: 60px;
+    width: 614px;
+    height: 140px;
+    line-height: 80px;
+    font-family: "Cormorant SC", sans-serif;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.cont1 p{
+    font-size: 16px;
+    width: 584px;
+    height: 83px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    margin-bottom: 60px;
+}
+
+.cont1 button{
+    font-size: 14px;
+    width: 160px;
+    height: 50px;
+    border-radius: 2px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #FF3147;
+    outline: none;
+    border: none;
+}
+
+.cont1{
+    position: absolute;
+    left: 376px;
+    top: 243px;
+    width: 142;
+}
+
+.page1img{
+    position: absolute;
+    left: 1058px;
+    top: 100px;
+}

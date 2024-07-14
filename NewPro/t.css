@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background-color: #f0f0f0;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0;
+}
+
+.modal-content {
+    background-color: #f0f0f0;
+}

@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 1450px;
+    width: 1920px;
+}
+
+body{
+    padding-left: 375px;
+    padding-top: 100px;
+}
+
+.h1{
+    width: 206px;
+    height: 24px;
+    font-size: 24px;
+    font-family: "Cormorant SC", serif;
+    font-weight: 600;
+    margin-bottom: 40px;
+    color: #FF3147;
+}
+
+.h2{
+    width: 428px;
+    height: 45px;
+    font-size: 45px;
+    font-family: "Cormorant SC", serif;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+.pa4cn1{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.pa4box{
+    margin-left: 62px;
+}
+
+.pa4box img{
+    margin-bottom: 21px;
+}
+
+.pa4box h1{
+    width: 249px;
+    height: 28px;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.pa4box p{
+    width: 256px;
+    height: 75px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+.pa4cn2{
+    display: flex;
+}
+
+.pa4cn2 img{
+    margin-right: 30px;
+}
+
+.cnbox{
+    width: 370px;
+    height: 189px;
+    padding: 30px;
+    background-color: #F6F6F6;
+    color: #000000;
+}
+
+
+
+.cnbox h1{
+    width: 293px;
+    height: 28px;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+
+.cnbox p{
+    width: 293px;
+    height: 79px;
+    font-size: 16px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+.cnbox:hover{
+    background-color: #FF3147;
+    color: #ffffff;
+}
